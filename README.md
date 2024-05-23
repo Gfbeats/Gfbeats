@@ -1,7 +1,8 @@
  # COUNTRIES ECONOMIC ACTIVTTY (GDPP) REPORT
 This is an analysis about the economic activiteis of some contries and also their birth and mortality rate
 
-  ![th](https://github.com/Gfbeats/Gfbeats/assets/159473659/b601f98f-675f-4f82-b92f-7aaee388a83e)
+![gg](https://github.com/Gfbeats/Gfbeats/assets/159473659/20db78ca-b373-4780-89f9-02c7bc918ead)
+![th](https://github.com/Gfbeats/Gfbeats/assets/159473659/b601f98f-675f-4f82-b92f-7aaee388a83e)
 
 For a contry to move forward and beat economic meltdown,Its economic activities must be on constant review,This project main aim was to understand and assertain which country has the highest and the lowest Import,export,Birth rate,mortality rate,Income etc.
 
@@ -10,7 +11,6 @@ The following Inquires,Provided us with better understanding
 * What is ther gross total income of all countries involved 
 * What is the total GDPP of all countries
 * What is the Maximum export of all contries
-* What is the Minimum export of Same countries
 * Which top fisrt five countries has the highest export
 * Which top first five countries has the highest income
 * Which country has the highest child mortality rate
@@ -42,7 +42,7 @@ The following steps were done in order to get the data ready for analysis.
 
 * How many Countries are involved in this project
 
-  ![IKL](https://github.com/Gfbeats/Gfbeats/assets/159473659/7c0cba2d-5158-4ef3-b300-aecd821a4250)
+![IKL](https://github.com/Gfbeats/Gfbeats/assets/159473659/7c0cba2d-5158-4ef3-b300-aecd821a4250)
 
   # INSIGHT AND FINDINGS
   With 167 number of countries involed,we can say that 98% of the total number of contries around the world is properly covered for this analysis
@@ -59,12 +59,30 @@ The following steps were done in order to get the data ready for analysis.
   ![Screenshot (113)](https://github.com/Gfbeats/Gfbeats/assets/159473659/f409a871-8798-41e9-bb59-1242b1c3f0d1)
 
   # INSIGHT AND FINDINGS
-  In comparism with the total income,we can say the GDPP is absolutly on the high side with is good for every country's economy'
+  In comparism with the total income,we can say the GDPP is absolutly on the high side which is good for every country's economy'
 
 * What is the Maximum export of all contries
-* What is the Minimum export of Same countries
+
+  ![Screenshot (114)](https://github.com/Gfbeats/Gfbeats/assets/159473659/0534917b-313a-4695-8eb7-630825f47ac2)
+
+# INSIGHT AND FINDINGS
+The maximum export for all country happens to be 200.00,as we aforetime understand that asia countries have more productivities of economic priducts to either manufacture or export 
+
 * Which top fisrt five countries has the highest export
+   
+![Screenshot (117)](https://github.com/Gfbeats/Gfbeats/assets/159473659/78fcabb6-917e-49d9-9082-d252f22c21cf)
+
+
+# INSIGHT AND FINDINGS
+The first five countries with the highest exports are Vietnam,Vanuatu,ambia,Yemen and Vanezuela.With Vietnam having the hight form or number of export.This suggest that Vietnam economic activity is very high with Venezuela the least.
+
 * Which top first five countries has the highest income
+
+  ![Screenshot (118)](https://github.com/Gfbeats/Gfbeats/assets/159473659/afdbd63e-2243-47c3-b2ef-88eadef31c16)
+
+# INSIGHT AND FINDINGS
+
+
 * Which country has the highest child mortality rate
 * What are the first top three countries with highest GDPP
 * Which first five countries has the highest maximum life expectation
