@@ -39,3 +39,36 @@ The following steps were done in order to get the data ready for analysis.
 • In addition, I made sure that each column was represented by the proper data type.
 
 # FINDINGS AND RECOMMENDATION
+
+* How many Countries are involved in this project
+
+  ![IKL](https://github.com/Gfbeats/Gfbeats/assets/159473659/7c0cba2d-5158-4ef3-b300-aecd821a4250)
+
+  # INSIGHT AND FINDINGS
+  With 167 number of countries involed,we can say that 98% of the total number of contries around the world is properly covered for this analysis
+
+* What is the gross total income of all countries involved
+  
+![Screenshot (112)](https://github.com/Gfbeats/Gfbeats/assets/159473659/496fdbb0-218a-48a3-b3c0-1ba6324aa395)
+
+ # INSIGHT AND FINDINGS
+ With over 2.86 million dollars as the total gross profit,its shows that to an extent,the world is doing impressively with their economic activities such as import and export as this also increases GDPP.
+ 
+* What is the total GDPP of all countries
+
+  ![Screenshot (113)](https://github.com/Gfbeats/Gfbeats/assets/159473659/f409a871-8798-41e9-bb59-1242b1c3f0d1)
+
+  # INSIGHT AND FINDINGS
+  In comparism with the total income,we can say the GDPP is absolutly on the high side with is good for every country's economy'
+
+* What is the Maximum export of all contries
+* What is the Minimum export of Same countries
+* Which top fisrt five countries has the highest export
+* Which top first five countries has the highest income
+* Which country has the highest child mortality rate
+* What are the first top three countries with highest GDPP
+* Which first five countries has the highest maximum life expectation
+* What country has the least health issues
+
+  # VISUALIZATION
+![Screenshot (114)](https://github.com/Gfbeats/Gfbeats/assets/159473659/d6d438cf-0511-4fa3-8169-29071098664b)
