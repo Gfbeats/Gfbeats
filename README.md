@@ -3,6 +3,7 @@ This is an analysis about the economic activiteis of some contries and also thei
 
 ![gg](https://github.com/Gfbeats/Gfbeats/assets/159473659/20db78ca-b373-4780-89f9-02c7bc918ead)
 ![th](https://github.com/Gfbeats/Gfbeats/assets/159473659/b601f98f-675f-4f82-b92f-7aaee388a83e)
+![;;](https://github.com/Gfbeats/Gfbeats/assets/159473659/ab5d6c36-f319-49d4-9143-8c2d591baa34)
 
 For a contry to move forward and beat economic meltdown,Its economic activities must be on constant review,This project main aim was to understand and assertain which country has the highest and the lowest Import,export,Birth rate,mortality rate,Income etc.
 
@@ -89,4 +90,5 @@ The first five countries with the highest exports are Vietnam,Vanuatu,ambia,Yeme
 * What country has the least health issues
 
   # VISUALIZATION
-![Screenshot (114)](https://github.com/Gfbeats/Gfbeats/assets/159473659/d6d438cf-0511-4fa3-8169-29071098664b)
+
+![Screenshot (120)g](https://github.com/Gfbeats/Gfbeats/assets/159473659/4cc9dfcd-6710-44b0-89da-72c504092937)
