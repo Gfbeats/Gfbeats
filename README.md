@@ -14,6 +14,7 @@ The following Inquires,Provided us with better understanding
 * What is the Maximum export of all contries
 * Which top fisrt five countries has the highest export
 * Which top first five countries has the highest income
+* Which top five countries has the highest import
 * Which country has the highest child mortality rate
 * What are the first top three countries with highest GDPP
 * Which first five countries has the highest maximum life expectation
@@ -69,19 +70,27 @@ The following steps were done in order to get the data ready for analysis.
 # INSIGHT AND FINDINGS
 The maximum export for all country happens to be 200.00,as we aforetime understand that asia countries have more productivities of economic priducts to either manufacture or export 
 
-* Which top fisrt five countries has the highest export
+* Which top five countries has the highest export
    
-![Screenshot (117)](https://github.com/Gfbeats/Gfbeats/assets/159473659/78fcabb6-917e-49d9-9082-d252f22c21cf)
+![Screenshot (121)](https://github.com/Gfbeats/Gfbeats/assets/159473659/4b6babbd-6b57-4f68-a878-c84b0c6bd549)
+
 
 
 # INSIGHT AND FINDINGS
-The first five countries with the highest exports are Vietnam,Vanuatu,ambia,Yemen and Vanezuela.With Vietnam having the hight form or number of export.This suggest that Vietnam economic activity is very high with Venezuela the least.
+
+Analyzing the export performance of the given countries, Vietnam stands out with an export index of 72, indicating a highly developed and diversified export sector, likely bolstered by its strong manufacturing base and integration into global supply chains. Vanuatu, with an index of 47, shows a significant but more modest export capability, potentially driven by niche markets such as agriculture and tourism-related products. Zambia, with an index of 37, likely benefits from its mining industry, particularly copper. Yemen, with an index of 30, reflects its reliance on oil exports despite ongoing conflict and instability affecting its economic performance. Venezuela, with the lowest index of 29, underscores the severe impact of political and economic turmoil on its export capacity, heavily reliant on its struggling oil sector. These figures illustrate the varied economic landscapes and export efficiencies of these nations
 
 * Which top first five countries has the highest income
 
-  ![Screenshot (118)](https://github.com/Gfbeats/Gfbeats/assets/159473659/afdbd63e-2243-47c3-b2ef-88eadef31c16)
+![Screenshot (122)](https://github.com/Gfbeats/Gfbeats/assets/159473659/fa4fb2d4-06e3-4957-9644-22c1f2cb19ab)
+
 
 # INSIGHT AND FINDINGS
+Analyzing the income data alongside the export indices provides a nuanced view of these countries' economic dynamics. Despite having the highest export index of 72, Vietnam's income is $4.5k, indicating efficient export operations but possibly lower value-added goods. Venezuela, with the highest income of $15.5k, despite a low export index of 29, suggests that its primary export, oil, commands high prices, although this sector is fraught with instability. Yemen, matching Vietnam's income at $4.5k but with a lower export index of 30, reflects a reliance on higher-value exports despite internal challenges. Zambia, with an income of $3.3k and an export index of 37, shows that its mining exports are significant but perhaps not diversified. Vanuatu, with the lowest income of $3.0k and an export index of 47, indicates a small economy with niche export sectors that may not generate high income. These insights reveal that a high export index does not always correlate with higher income, emphasizing the importance of the type and value of exports
+
+* which top five country has the highest import
+  
+![Screenshot (123)](https://github.com/Gfbeats/Gfbeats/assets/159473659/b3417ec3-e928-4bdf-9a0b-f6eb7d9712d3)
 
 
 * Which country has the highest child mortality rate
